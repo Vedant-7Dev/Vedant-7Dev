@@ -1,13 +1,16 @@
 ## Hi there 👋
 
-<Vedant Lanjewar | @Vedant-7Dev  
+<Vedant Lanjewar | @Vedant-7Dev
+
+   🎓 B.Tech in Computer Science and Engineering  
+ Passionate about Data Science, AI, and Software Development
+
 ### 🔍 Projects  
 - 🧠 Emotion Detection using CNN  
 - 📰 Fake News Detection using ML  
 - 📊 Netflix Data Analysis  
 - 🔒 Password Strength Checker
-- 🎓 B.Tech in Computer Science and Engineering  
-- 💻 Passionate about Data Science, AI, and Software Development
+
 
 
 <h3 align="center">A passionate developer from India</h3>
