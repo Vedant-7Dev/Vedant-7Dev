@@ -11,7 +11,7 @@
 💻 Passionate about Data Science, AI, and Software Development
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-7dev&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-7dev" /> </p>
 
